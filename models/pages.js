@@ -10,7 +10,7 @@ NEWSCHEMA('Page').make(function(schema) {
 
 	schema.define('id', 'UID');
 	schema.define('body', String);                      // RAW html
-	schema.define('bodywidgets', '[String(22)]');       // List of all used widgets
+	schema.define('bodywidgets', '[String(22)]');       // List of all used widgetsher
 	schema.define('icon', 'String(20)');                // Font-Awesome icon name
 	schema.define('ispartial', Boolean);                // Is only partial page (the page will be shown in another page)
 	schema.define('keywords', 'String(200)');           // Meta keywords
