@@ -1,21 +1,21 @@
 {
-  "pid": 8292,
+  "pid": 87467,
   "stats": [
     {
       "id": null,
       "version": {
-        "node": "v12.14.0",
+        "node": "v12.6.0",
         "total": "3.4.0",
         "app": "11.0.0"
       },
-      "pid": 8292,
+      "pid": 87467,
       "thread": "",
       "mode": "debug",
-      "date": "2020-02-13T13:53:09.789Z",
-      "memory": 7.14,
-      "rm": 0,
-      "fm": 0,
-      "requests": 0,
+      "date": "2020-08-07T13:16:31.784Z",
+      "memory": 10.55,
+      "rm": 25.75,
+      "fm": 21.25,
+      "requests": 103,
       "pending": 0,
       "errors": 0,
       "timeouts": 0
